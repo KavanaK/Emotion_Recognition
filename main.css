@@ -1,0 +1,231 @@
+.image1{
+width: 150em;
+height: auto;
+float: right;    
+}
+.navigation{
+    position: absolute;
+    top: 8px;
+    right: 20px;
+    font-family: 'Montserrat', sans-serif;
+    font-size: 12pt;  
+}
+.image2{
+    position: absolute;
+    width: 300px;
+    height: auto;
+    top: 250px;
+    right: 750px;
+    /*transform: translate(-250px,0,0,-750px);*/
+}
+.icons{
+    position: absolute;
+    width: 100px;
+    height: auto;
+    top: 650px;
+    right: 750px;
+   color: #e94073;
+
+}
+
+
+.material-icons.md-100 { font-size: 100px;
+    color: #e94073;
+}
+.material-icons.md-18{
+    font-size: 18px;
+}
+
+.content  {
+    position: absolute;
+    top: 250px;
+    right: 85px;
+    color: white;
+    font-family: 'Montserrat Regular', sans-serif;
+    font-size: 35px;
+}
+.content span {
+    font-size: 130px;
+}
+.content p p{
+    font-size: 30px;
+}
+.paragraph{
+    position: absolute;
+    top: 1000px;
+    font-size: 16px;
+    font-family: 'Montserrat Regular', sans-serif;
+    right: 50px;
+    left: 100px;
+}
+.navigation ul {
+    display: flex;
+    list-style: none;
+     margin: 0;
+}
+
+.navigation ul li{
+    padding: 20px;
+}
+.navigation ul li a{
+    text-decoration: none;
+    color: white;
+}
+.image3{
+    display: inline-block;
+    
+}
+.para {
+    position: absolute;
+   display: inline;
+    text-align: left;
+    font-size: 14px;
+    left: 50%;
+    font-family: 'Montserrat Regular', sans-serif;
+    }
+.para2{
+        position: absolute;
+        width: 50%;
+        text-align: center;
+        font-family: 'Montserrat Regular', sans-serif;
+       right: 750px;
+    }
+ .text{
+        color: #00bdaa;
+        font-weight: 700;
+        font-family: 'Montserrat Regular', sans-serif;
+    }
+h3 {
+        font-weight: 700 !important;
+    }
+.statement{
+        position: absolute;
+        bottom: 10px;
+        font-weight: 600;
+        font-family: 'Montserrat Regular', sans-serif;
+        text-align: center !important;
+        right: 25%;
+    }
+ button{
+         position: absolute;
+          right: 50%;
+          color: white;
+          background-color: #e94073;
+          border-color: none;
+          border: 0;
+          height: 50px;
+          width: 200px;
+          border-radius: 25px !important;
+          
+      }
+      .navi{
+        position: absolute;
+        top: 8px;
+        right: 20px;
+        font-family: 'Montserrat', sans-serif;
+        font-size: 12pt;
+          
+      }
+      .navi ul {
+        display: flex;
+        list-style: none;
+         margin: 0;
+    }
+    .navi ul li{
+        padding: 20px;
+    }
+    .navi ul li a{
+        text-decoration: none; 
+        color: black;
+    }
+    .teamcont{
+        position: absolute;
+        font-family: 'Montserrat Regular', sans-serif;
+    font-size: 20px;
+    font-weight: 700;
+    text-align: center;
+    top: 75px;
+    right: 700px;  
+}
+.image5 {
+    position: absolute;
+ border-radius: 100%;
+ height: 200px;
+ top: 150px;
+ right: 700px;
+}
+.mentor{
+    position: absolute;
+    top:350px;
+ right: 765px;
+ text-align: justify;
+ font-weight:500;
+
+}
+.image6{
+    position: absolute;
+    border-radius: 100%;
+    height: 200px;
+    top: 500px;
+    
+}
+.image7{
+    position: absolute;
+    border-radius: 100%;
+    height: 200px;
+    top: 500px;
+    right: 750px;;
+}
+
+.image8{
+    position: absolute;
+    border-radius: 100%;
+    height: 200px;
+    top: 500px;
+    right:445px; 
+}
+
+.image9{
+    position: absolute;
+    border-radius: 100%;
+    height: 200px;
+    top: 500px;
+    right: 145px;
+}
+.mentor1{
+    position: absolute;
+    top:700px;
+left: 275px;
+ text-align: justify;
+ font-weight:500;
+
+
+}
+.mentor2{
+    position: absolute;
+    top:700px;
+ left: 650px;
+ text-align: justify;
+ font-weight:500;
+
+
+}
+.mentor3{
+    position: absolute;
+    top:700px;
+right: 490px;
+ text-align: justify;
+ font-weight:500;
+
+
+}
+.mentor4{
+    position: absolute;
+    top:700px;
+ right: 200px;
+ text-align: justify;
+ font-weight:500;
+
+
+}
+
